@@ -10,4 +10,5 @@ Network Science has a broad demand in various academic fields and industries. Th
 - Social Network analysis 
 - Network Science 
 - Graph Analysis
+
 Mohammad Heydari is a Msc degree student in the School of Industrial and Systems Engineering at Tarbiat Modares University. His primary research interests are Big Data Analytics Techniques and their Application in Large Scale Social Networks. Previously He was a Msc degree student in Information Technology Engineering at Shahid Beheshti University, finished his Bsc degree in Software Engineering at Technical and Vocational University of Tehran and got his official diploma in Computer Software.
