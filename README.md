@@ -2,13 +2,12 @@
 https://wss.ce.sharif.edu/
 
 # Discovering Latent Patterns in Academic Collaboration Network based on Community Detection Approach
-
+We are living in the data age. Communications over scientific networks creates new opportunities for researchers who aim to discover the hidden pattern in these huge repositories. This study utilizes network science to create collaboration network of Iranian Scientific Institutions. A modularity-based approach applied to find network communities. To reach a big picture of science production flow, analysis of the collaboration network is crucial. Our results demonstrated that geographic location closeness and ethnic attributes has important roles in academic collaboration network establishment. Besides, it shows that famous scientific centers in the capital city of Iran, Tehran has strong influence on the production flow of scientific activities. These academic papers are mostly viewed and downloaded from the United State of America, China, India, and Iran. The motivation of this research is that by discovering hidden communities in the network and finding the structure of intuitions communications, we can identify each scientific center research potential separately and clear mutual scientific fields. Therefore, an efficient strategic program can be design, develop and test to keep scientific institutions in progress path and navigate their research goals into a straight useful roadmap to identify and fill the unknown gaps.
 # Syllabus
 Network Science has a broad demand in various academic fields and industries. This workshop is a primary introduction to Social Network Analysis using Python and NetworkX, a powerful and mature python library for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. This graph library is suitable for operation on large real world graphs: e.g., graphs in excess of 10 million nodes and 100 million edges. Due to its dependence on a pure Python "dictionary of dictionary" data structure, NetworkX is a reasonably efficient, very scalable, highly portable framework for network and social network analysis. Based on professionals experience in the network science field, the combination of mentioned tools could be effectively beneficial. It is crucial for contributors in this workshop to have a fundamental knowledge of Python and Network Science methods
-
 # keywords
 - Social Network analysis 
 - Network Science 
 - Graph Analysis
-
+# About Workshop Presenter
 Mohammad Heydari is a Msc degree student in the School of Industrial and Systems Engineering at Tarbiat Modares University. His primary research interests are Big Data Analytics Techniques and their Application in Large Scale Social Networks. Previously He was a Msc degree student in Information Technology Engineering at Shahid Beheshti University, finished his Bsc degree in Software Engineering at Technical and Vocational University of Tehran and got his official diploma in Computer Software.
